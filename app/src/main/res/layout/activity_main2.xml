@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tir_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222020"
+    android:orientation="vertical"
+    android:textAlignment="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/one_1"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="ONE,ONE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_2"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="ONE,TWO"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_3"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="ONE,THREE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_4"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="ONE,FOUR"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/two_1"
+            android:layout_width="382dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="TWO,ONE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/two_2"
+            android:layout_width="257dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="ONE,TWO"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/two_3"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="ONE,THREE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/two_4"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="TWO,FOUR"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/trd_1"
+            android:layout_width="356dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="THREE,ONE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_9"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="THREE,TWO"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_10"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="THREE,THREE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_11"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="THREE,FOUR"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/one_12"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="FOUR,ONE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_13"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="FOUR,TWO"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_14"
+            android:layout_width="173dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="FOUR,THREE"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+
+        <TextView
+            android:id="@+id/one_15"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/border1"
+            android:paddingTop="100dp"
+            android:text="FOUR,FOUR"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="130px" />
+    </LinearLayout>
+</LinearLayout>
