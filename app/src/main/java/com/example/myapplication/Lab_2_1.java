@@ -5,7 +5,7 @@ package com.example.myapplication;
         import android.os.Bundle;
 
 public class Lab_2_1 extends AppCompatActivity {
-    //   更新后
+    //   二次更新后
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
