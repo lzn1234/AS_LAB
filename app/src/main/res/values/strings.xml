@@ -12,5 +12,17 @@
 
     <string name="str11">ONE ONE</string>
 
+    <string name="signin">login</string>
+    <string name="cancel">cancel</string>
+
     <string name="RelativeHeadStr">Relative Layout Example</string>
+    <string name="title_activity_main5">MainActivity</string>
+    <string name="title_activity_lab_4_1">lab_4_1</string>
+
+    <string name="urlPlace">input your url</string>
+    <string name="send">send url</string>
+
+    <string name="testFont">用于测试的字体</string>
+
+    <string name="android_app">ANDRID APP</string>
 </resources>

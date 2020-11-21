@@ -5,6 +5,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+<!--        <item name="actionModeBackground">@color/colorMode</item>-->
+
     </style>
 
     <style name="AppTheme.NoActionBar">
@@ -16,4 +18,12 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="Base.Theme.DesignDemo" parent="AppTheme.NoActionBar">
+        <item name="actionModeStyle">@style/ActionModeStyle</item>
+    </style>
+
+    <style name="ActionModeStyle">
+        <item name="background">@color/colorMode</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
 </resources>
