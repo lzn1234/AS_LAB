@@ -132,6 +132,7 @@ public class Lab_2_4 extends AppCompatActivity {
         //获取导航栏
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayHomeAsUpEnabled(true);
+        //
     }
 
     //根据position和listview获取某一项视图
