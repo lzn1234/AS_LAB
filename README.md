@@ -72,10 +72,9 @@
 ```
 
 ListVIew
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png){height="300"}
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png"  height="330" width="165">
 点击某一项
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png)
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png"  height="330" width="495">
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png"  height="330" width="165">
 
 ### 2.创建自定义布局的AlertDialog
 
@@ -108,8 +107,8 @@ ListVIew
 ```
 
 点击按钮弹出一个AlterDialog
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.1.png)
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.2.png)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.1.png"  height="330" width="165">
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.2.png"  height="330" width="165">
 
 
 ### 3.使用后xml定义一个菜单
@@ -160,16 +159,16 @@ ListVIew
 ```
 
 弹出菜单
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.1.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.1.png"  height="330" width="165">
 
 设置字体大小
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.2.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.2.png"  height="330" width="165">
 
 点击菜单项
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.3.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.3.png"  height="330" width="165">
 
 设置字体颜色
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.4.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.4.png"  height="330" width="165">
 
 
 ### 4.创建上下文操作模式(ActionMode)的上下文菜单
@@ -268,10 +267,10 @@ ListVIew
 ```
 
 进入视图
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.1.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.1.png"  height="330" width="165">
 
 进入上下文操作模式并选择列表项
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.2.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.2.png"  height="330" width="165">
 
 删除视图
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.3.JPG)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.3.png"  height="330" width="165">
