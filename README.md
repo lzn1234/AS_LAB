@@ -74,8 +74,8 @@
 ListVIew
 ![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png){height="300"}
 点击某一项
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.JPG)
-
+![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png)
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png"  height="330" width="495">
 
 ### 2.创建自定义布局的AlertDialog
 
@@ -108,8 +108,8 @@ ListVIew
 ```
 
 点击按钮弹出一个AlterDialog
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.1.JPG)
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.2.JPG)
+![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.1.png)
+![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.2.png)
 
 
 ### 3.使用后xml定义一个菜单
