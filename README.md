@@ -72,7 +72,7 @@
 ```
 
 ListVIew
-![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png)
+![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png){height="300"}
 点击某一项
 ![ListView](https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.JPG)
 
