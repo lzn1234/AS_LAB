@@ -37,7 +37,6 @@ public class lab4 extends AppCompatActivity {
                 if (intent.resolveActivity(getPackageManager()) != null) {
                     startActivity(intent);
                 }
-
             }
         });
 

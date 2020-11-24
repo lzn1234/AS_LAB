@@ -274,3 +274,74 @@ ListVIew<br/>
 
 删除视图<br/>
 <img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.3.png"  height="330" width="165"><br/>
+
+## 实验四 Intent
+
+### 自定义WebView验证隐式Intent的使用
+
+点击按钮创建一个隐式
+```java
+        Button btn = (Button) findViewById(R.id.button);
+        final EditText text = (EditText)findViewById(R.id.urlText);
+        text.setText("https://www.baidu.com/");
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //intent 对象
+                Intent intent = new Intent();
+                //设置action
+                intent.setAction(Intent.ACTION_SEND);
+                intent.putExtra("urlText",String.valueOf(text.getText()));
+                intent.setType("text/plain");
+
+                System.out.println(text.getText());
+
+                if (intent.resolveActivity(getPackageManager()) != null) {
+                    startActivity(intent);
+                }
+
+            }
+        });
+```
+
+接受intent
+```java
+        Intent intent = getIntent();
+        String url = intent.getStringExtra("urlText");
+        WebView webview = (WebView)findViewById(R.id.webview);
+        actionBar.setTitle(url+111);
+        webview.loadUrl(url);
+        //设置不用系统浏览器打开,直接显示在当前Webview
+        webview.setWebViewClient(new WebViewClient() {
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                view.loadUrl(url);
+                return true;
+            }
+        });
+```
+
+配置接收intent的Activity
+```xml
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+```
+
+
+
+
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab4/1.png"  height="330" width="165"><br/>
+
+点击按钮并选择打开的应用<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab4/2.png"  height="330" width="165"><br/>
+
+打开发送过来的网页<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab4/3.png"  height="330" width="165"><br/>
