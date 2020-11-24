@@ -71,10 +71,10 @@
         });
 ```
 
-ListVIew
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png"  height="330" width="165">
-点击某一项
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png"  height="330" width="165">
+ListVIew<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.1.png"  height="330" width="165"><br/>
+点击某一项<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/1.2.png"  height="330" width="165"><br/>
 
 ### 2.创建自定义布局的AlertDialog
 
@@ -106,9 +106,9 @@ ListVIew
     }
 ```
 
-点击按钮弹出一个AlterDialog
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.1.png"  height="330" width="165">
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.2.png"  height="330" width="165">
+点击按钮弹出一个AlterDialog<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.1.png"  height="330" width="165"><br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/2.2.png"  height="330" width="165"><br/>
 
 
 ### 3.使用后xml定义一个菜单
@@ -158,17 +158,17 @@ ListVIew
 
 ```
 
-弹出菜单
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.1.png"  height="330" width="165">
+弹出菜单<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.1.png"  height="330" width="165"><br/>
 
-设置字体大小
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.2.png"  height="330" width="165">
+设置字体大小<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.2.png"  height="330" width="165"><br/>
 
-点击菜单项
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.3.png"  height="330" width="165">
+点击菜单项<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.3.png"  height="330" width="165"><br/>
 
-设置字体颜色
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.4.png"  height="330" width="165">
+设置字体颜色<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/3.4.png"  height="330" width="165"><br/>
 
 
 ### 4.创建上下文操作模式(ActionMode)的上下文菜单
@@ -266,11 +266,11 @@ ListVIew
 
 ```
 
-进入视图
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.1.png"  height="330" width="165">
+进入视图<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.1.png"  height="330" width="165"><br/>
 
-进入上下文操作模式并选择列表项
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.2.png"  height="330" width="165">
+进入上下文操作模式并选择列表项<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.2.png"  height="330" width="165"><br/>
 
-删除视图
-<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.3.png"  height="330" width="165">
+删除视图<br/>
+<img src="https://github.com/lzn1234/AS_LAB/blob/master/images/lab3/4.3.png"  height="330" width="165"><br/>
