@@ -56,8 +56,6 @@ public class Lab_2_2 extends AppCompatActivity {
                 dialog.dismiss();
             }
         });
-
-
         return dialog;
     }
 }
